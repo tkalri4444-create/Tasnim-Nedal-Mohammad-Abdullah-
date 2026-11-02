@@ -1,0 +1,6 @@
+{
+  "name": "The Mad Chemist Laboratory Clicker",
+  "description": "A frantic, high-stakes idle & clicker laboratory simulation where you synthesize unstable chemical elements, manage volatile flask pressure, upgrade quantum lab equipment, and trigger mutations to avoid catastrophic explosions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
